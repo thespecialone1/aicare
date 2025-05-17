@@ -1,0 +1,9 @@
+2025/05/16-14:10:24.652 1de720 Reusing MANIFEST /Users/lahrasab/VS Code/golang/aicare/nodejs-whatsapp-api/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/16-14:10:24.654 1de720 Recovering log #4
+2025/05/16-14:10:24.655 1de720 Reusing old log /Users/lahrasab/VS Code/golang/aicare/nodejs-whatsapp-api/.wwebjs_auth/session/Default/Local Storage/leveldb/000004.log 
+2025/05/16-17:54:15.093 1de720 Level-0 table #8: started
+2025/05/16-17:54:15.097 1de720 Level-0 table #8: 18298 bytes OK
+2025/05/16-17:54:15.102 1de720 Delete type=0 #4
+2025/05/16-22:44:33.112 1de722 Level-0 table #10: started
+2025/05/16-22:44:33.116 1de722 Level-0 table #10: 18788 bytes OK
+2025/05/16-22:44:33.120 1de722 Delete type=0 #7
